@@ -1,0 +1,6 @@
+sudo crontab -e
+
+0 3 * * *	/chckhddspace.sh
+
+
+https://crontab.guru/
