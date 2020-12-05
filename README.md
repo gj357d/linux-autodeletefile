@@ -6,7 +6,7 @@ Save chckhddspace.sh somewhere on the disk, edit the percentage limit in the con
 
 Edit the file
 
-sudo crontab
+nano crontab
 
 and paste the following line. He will repeat the script every day at 3:00 am
 
